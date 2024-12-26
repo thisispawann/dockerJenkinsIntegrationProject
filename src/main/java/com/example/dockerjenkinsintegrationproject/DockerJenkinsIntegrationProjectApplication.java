@@ -1,0 +1,13 @@
+package com.example.dockerjenkinsintegrationproject;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DockerJenkinsIntegrationProjectApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DockerJenkinsIntegrationProjectApplication.class, args);
+    }
+
+}
